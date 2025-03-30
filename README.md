@@ -1,8 +1,8 @@
-## Trading Room Workshop City University of Hong Kong
+## Trading Room Workshop @ _City University of Hong Kong_
 
 In this repository you may find
 - a few of the algorithmic trading scripts I (Riccardo) coded and implemented myself for the individual competitions during the course
-- the code and presentation of the group project that Me and four other students worked on. Special thanks go to Elijah Clark (for helping in the design of the strategy logic) and Daniel Perez Domouso (for coding shoulder to shoulder with me in the lab)
+- the code and presentation of the group project that Me and four other students worked on. Special thanks go to **Elijah Clark** (for helping in the design of the strategy logic) and **Daniel Perez Domouso** (for coding shoulder to shoulder with me in the lab)
 
 # Network programming for algorithmic L/S Equity Trading
 
