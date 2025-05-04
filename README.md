@@ -14,12 +14,12 @@ I took part in an algorithmic trading class during my exchange semester at CityU
 - We would long (short) underpriced (overpriced) securities based on what a server script (one of the four traders) would tell each client (each of the four traders) thanks to a sockets architecture.
 - The trading clients continuously rebalanced the books to make sure they were always trading the profit maximising security.
 
-Before the graded competition each time pitched their strategy and forecasted the final rankings of all teams based on the pitches. <u>Our popularity score, calculated on the perception 
-that the other teams thought of our pitch, was the highest </u>. Our team was the only one to implement this informational arbitrage strategy, while all other teams replicated the ideas
+Before the graded competition each time pitched their strategy and forecasted the final rankings of all teams based on the pitches. <ins>Our popularity score, calculated on the perception 
+that the other teams thought of our pitch, was the highest </ins>. Our team was the only one to implement this informational arbitrage strategy, while all other teams replicated the ideas
 that the professor suggested - which turned out to underperform in most cases. A team coded something similar, but it required traders to manually input everything into an excel sheet,
 while our code only required us to start the server and the clients at the beginning of a simulation.
 
-** We ranked top 3 in all the five graded simulations ** when competing against 13 other teams.
+**We ranked top 3 in all the five graded simulations** when competing against 13 other teams.
 
 ## Introduction: briefing the case
 - 70 students were divided into groups of 4/5 people. Each group has 4 computers to trade on a simulated market.
